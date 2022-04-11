@@ -19,9 +19,6 @@
 
 - ⚡ Fun fact: I'm a Computer Engineering Student there's nothing funny on that
 
-<!--Calendar-->
-![Metrics](https://metrics.lecoq.io/enricBiancott0?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FRome)
-
 <!--Starred repositories-->
 <h3 alig="left">Starred repositories</h3>
 <a href="https://github.com/enricBiancott0/dijkstra">
