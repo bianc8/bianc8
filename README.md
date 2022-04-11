@@ -1,8 +1,8 @@
-<h1 align="center">
-  <img style="height:20vh" src="https://raw.githubusercontent.com/enricBiancott0/enricBiancott0/main/images/synth.gif">
-</h1>
 <h1 align="center">Hi 👋, I'm Enrico</h1>
 <h3 align="center">A full stack developer from Italy</h3>
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=enricBiancott0&theme=dark&show_icons=true">](https://metrics.lecoq.io/enricBiancott0#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=enricBiancott0&show_icons=true">](https://metrics.lecoq.io/enricBiancott0#gh-light-mode-only)
 
 <!--Personal info-->
 - 🔭 I’m currently working at [https://busrapido.com](https://busrapido.com)
@@ -19,9 +19,8 @@
 
 - ⚡ Fun fact: I'm a Computer Engineering Student there's nothing funny on that
 
-<!--Github Stats-->
-<h3 align="left">Github Stats</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=enricBiancott0&theme=synthwave " />
+<!--Calendar-->
+![Metrics](https://metrics.lecoq.io/enricBiancott0?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FRome)
 
 <!--Starred repositories-->
 <h3 alig="left">Starred repositories</h3>
