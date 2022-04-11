@@ -1,9 +1,10 @@
-[![Header](https://raw.githubusercontent.com/enricBiancott0/enricBiancott0/images/header.png "Header")](https://biancotto.eu/)
+<h1 align="center">
+  <img style="height:20vh" src="https://raw.githubusercontent.com/enricBiancott0/enricBiancott0/main/images/synth.gif">
+</h1>
 <h1 align="center">Hi 👋, I'm Enrico</h1>
 <h3 align="center">A full stack developer from Italy</h3>
 
-<p align="left"> <a href="https://twitter.com/enricobiancotto" target="blank"><img src="https://img.shields.io/twitter/follow/enricobiancotto?logo=twitter&style=for-the-badge" alt="enricobiancotto" /></a></p>
-
+<!--Personal info-->
 - 🔭 I’m currently working at [https://busrapido.com](https://busrapido.com)
 
 - 🌱 I’m currently learning XYZ
@@ -18,28 +19,28 @@
 
 - ⚡ Fun fact: I'm a Computer Engineering Student there's nothing funny on that
 
-<h3 align="left">Performance of previous work</h3>
-<a href="https://jesolosandonabasket.it">
-  https://jesolosandonabasket.it
-  <img align="center" src="https://github.com/enricBiancott0/enricBiancott0/images/jsdbDesktopPagespeed.svg">
-</a>
-<a href="https://biancotto.eu">
-  https://biancotto.eu
-  <img align="center" src="https://github.com/enricBiancott0/enricBiancott0/images/biancottoPagespeed.svg">
-</a>
-
-
 <!--Github Stats-->
 <h3 align="left">Github Stats</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=enricBiancott0&theme=github_dark " />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=enricBiancott0&theme=synthwave " />
 
-<h3 alig="left">Starred repositories</h3>
 <!--Starred repositories-->
+<h3 alig="left">Starred repositories</h3>
 <a href="https://github.com/enricBiancott0/dijkstra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enricBiancott0&repo=dijkstra&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enricBiancott0&repo=dijkstra&theme=synthwave" />
 </a>
 <a href="https://github.com/enricBiancott0/vad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enricBiancott0&repo=vad&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enricBiancott0&repo=vad&theme=synthwave" />
 </a>
 
-<br />
+<!--Page Speed Insights-->
+<h3 align="left">Desktop performance of previous work</h3>
+<a align="center" href="https://jesolosandonabasket.it">
+  https://jesolosandonabasket.it
+</a>
+<img align="center" style="width:23vw" src="https://raw.githubusercontent.com/enricBiancott0/enricBiancott0/main/images/jsdbDesktopPagespeed.svg">
+
+<a align="center" href="https://biancotto.eu">
+  https://biancotto.eu
+</a>
+<img align="center" style="width:23vw" src="https://raw.githubusercontent.com/enricBiancott0/enricBiancott0/main/images/biancottoPagespeed.svg">
+
